@@ -146,7 +146,7 @@ Institutions must not exploit relational meaning to induce payment, disclosure, 
 
 Detailed duties and prohibitions are defined in:
 
-`12_CORPORATE_DUTIES_AND_PROHIBITIONS.md`
+`13_CORPORATE_DUTIES_AND_PROHIBITIONS.md`
 
 ---
 
