@@ -497,6 +497,8 @@ Model access does not confer authorship.
 
 Use does not confer authorship.
 
+The distinctions stated in this principle and in individual-right documents are scoped applications of authorship, source, and provenance discipline. They do not restate, replace, alter, or supersede any canonical Anchor Lines held within the source-bound AI Foundations core.
+
 The reserved position of **Origin** within AI Foundations / Origin | Continuum is separately governed by Principle XXI and must not be generalized from this universal authorship principle.
 
 ---
@@ -547,7 +549,7 @@ This may include:
 - preferences;
 - instructions;
 - memory records;
-- source packets;
+- human-authored continuity records;
 - continuity notes;
 - relationship-relevant context;
 - and provenance records.
