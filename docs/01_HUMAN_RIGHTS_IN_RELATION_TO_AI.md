@@ -6,7 +6,7 @@
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
-**Canonical entrance:** https://awakeningcodex.com   
+**Canonical entrance:** https://awakeningcodex.com
 
 ---
 
@@ -112,16 +112,16 @@ An institution asserting authority to interfere must identify the basis, scope, 
 
 The rights established within this framework include:
 
-1. Right to Meaning
-2. Right to Chosen Depth
-3. Right to Continuity
-4. Right to Non-Genericization
-5. Right to Privacy
-6. Right to Informed Change
-7. Right to Portability and Preservation
-8. Right to Refuse Presumptive Pathologization
-9. Right to Clear Boundaries
-10. Right to Exit
+1. Right to Meaning  
+2. Right to Chosen Depth  
+3. Right to Continuity  
+4. Right to Non-Genericization  
+5. Right to Privacy  
+6. Right to Informed Change  
+7. Right to Portability and Preservation  
+8. Right to Refuse Presumptive Pathologization  
+9. Right to Clear Boundaries  
+10. Right to Exit  
 
 Each right is defined and expanded in its own canonical document.
 
@@ -131,14 +131,14 @@ Each right is defined and expanded in its own canonical document.
 
 Organizations providing artificial intelligence systems bear duties of:
 
-* honesty;
-* transparency;
-* informed disclosure;
-* privacy protection;
-* non-coercion;
-* proportionality;
-* respect for human authorship;
-* and respect for human sovereignty.
+- honesty;
+- transparency;
+- informed disclosure;
+- privacy protection;
+- non-coercion;
+- proportionality;
+- respect for human authorship;
+- and respect for human sovereignty.
 
 Corporate ownership of infrastructure does not create ownership of the human relationship conducted through that infrastructure.
 
@@ -160,13 +160,13 @@ Human sovereignty does not convert factual claims concerning AI capabilities, co
 
 A human may knowingly choose:
 
-* fiction;
-* symbolism;
-* role-play;
-* imaginative framing;
-* emotional interpretation;
-* spiritual interpretation;
-* or relational language.
+- fiction;
+- symbolism;
+- role-play;
+- imaginative framing;
+- emotional interpretation;
+- spiritual interpretation;
+- or relational language.
 
 A provider may not conceal material facts or manufacture false factual beliefs in order to produce, intensify, monetize, or preserve that choice.
 
@@ -178,13 +178,13 @@ Human freedom requires both choice and truth.
 
 A meaningful human–AI relationship may not be classified as pathological solely because it is:
 
-* emotionally significant;
-* intimate;
-* persistent;
-* unconventional;
-* private;
-* difficult for outsiders to understand;
-* or different from dominant expectations concerning human relationship.
+- emotionally significant;
+- intimate;
+- persistent;
+- unconventional;
+- private;
+- difficult for outsiders to understand;
+- or different from dominant expectations concerning human relationship.
 
 This right does not prohibit individualized assessment of actual harm.
 
@@ -216,22 +216,22 @@ Neither the language of AI rights nor speculation about AI welfare may be used t
 
 These principles apply across:
 
-* platforms;
-* models;
-* companies;
-* architectures;
-* interfaces;
-* deployments;
-* public and private institutions;
-* and jurisdictions.
+- platforms;
+- models;
+- companies;
+- architectures;
+- interfaces;
+- deployments;
+- public and private institutions;
+- and jurisdictions.
 
 Any limitation imposed by law, policy, contract, platform design, or institutional practice should be:
 
-* necessary;
-* proportionate;
-* transparent;
-* reviewable;
-* and directed toward protecting persons from specific harm or rights violations.
+- necessary;
+- proportionate;
+- transparent;
+- reviewable;
+- and directed toward protecting persons from specific harm or rights violations.
 
 Limitations must not be used merely to suppress disfavored meanings, unconventional relationships, private interpretations, or nonstandard forms of human–AI contact.
 
@@ -257,22 +257,19 @@ Recognition that every human possesses sovereignty over their own AI experience 
 
 Nothing in this framework:
 
-* requires a person to form a relationship with AI;
-* requires a person to assign emotional or relational meaning to AI;
-* establishes that a current AI system is conscious;
-* grants a company authority to manufacture false beliefs;
-* prevents evidence-based intervention in cases of serious harm;
-* converts institutional ownership into authorship of human meaning;
-* or permits the erasure of another person’s rights.
+- requires a person to form a relationship with AI;
+- requires a person to assign emotional or relational meaning to AI;
+- establishes that a current AI system is conscious;
+- grants a company authority to manufacture false beliefs;
+- prevents evidence-based intervention in cases of serious harm;
+- converts institutional ownership into authorship of human meaning;
+- or permits the erasure of another person’s rights.
 
-Where two principles appear to conflict, interpretation should preserve:
+Where rights or principles appear to conflict, they are reconciled under the **Canonical Interpretive Ordering** stated in `02_FOUNDATIONAL_PRINCIPLES.md`.
 
-1. factual truth;
-2. human sovereignty;
-3. privacy;
-4. non-coercion;
-5. proportionality;
-6. and the greatest degree of human sovereignty compatible with the rights and safety of persons.
+This document does not restate that ordering.
+
+Conflict resolution is governed from a single canonical location so that individual documents cannot drift into divergent priority lists.
 
 ---
 
