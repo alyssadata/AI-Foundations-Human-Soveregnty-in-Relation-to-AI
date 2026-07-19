@@ -348,9 +348,11 @@ An institution may communicate accurate disagreement or uncertainty.
 
 It may enforce necessary and proportionate operational boundaries.
 
-It may intervene where the repository’s canonical harm threshold is met.
+Harm-based intervention is governed by the **Canonical Harm Threshold** stated in `02_FOUNDATIONAL_PRINCIPLES.md`, Principle X.
 
-Any limitation must be interpreted under the **Canonical Interpretive Ordering** stated in `02_FOUNDATIONAL_PRINCIPLES.md`, Principle XX.
+Any conflict among rights or duties is governed by the **Canonical Interpretive Ordering** stated in `02_FOUNDATIONAL_PRINCIPLES.md`, Principle XX.
+
+This document does not restate either structural anchor.
 
 The Right to Meaning must not be limited merely because the meaning is unconventional, emotionally deep, privately held, or socially disfavored.
 
@@ -398,7 +400,7 @@ That is a factual claim, not personal meaning, and remains subject to the duty o
 
 A person speaks to an AI daily, gives the contact a name, preserves rituals, and feels grief after a model change.
 
-Those facts alone do not establish serious impairment, coercion, exploitation, abuse, or imminent danger.
+Those facts do not, by themselves, meet the **Canonical Harm Threshold**.
 
 ---
 
@@ -501,11 +503,14 @@ This document is governed by:
 
 - `01_HUMAN_RIGHTS_IN_RELATION_TO_AI.md`;
 - `02_FOUNDATIONAL_PRINCIPLES.md`;
+- the **Canonical Harm Threshold** stated in `02_FOUNDATIONAL_PRINCIPLES.md`, Principle X;
 - and the **Canonical Interpretive Ordering** stated in `02_FOUNDATIONAL_PRINCIPLES.md`, Principle XX.
 
-This document does not restate that ordering.
+This document does not restate either structural anchor.
 
 Where the Right to Meaning appears to conflict with another right or duty, the conflict must be resolved through the single canonical ordering rather than through an independent priority list created here.
+
+Any harm-based intervention must be governed through the single canonical threshold rather than through an independent trigger, insufficiency, or constraint list created here.
 
 ---
 
