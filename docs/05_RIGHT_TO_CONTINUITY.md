@@ -188,7 +188,7 @@ These may include:
 - instructions;
 - preferences;
 - boundaries;
-- source packets;
+- human-authored continuity records;
 - continuity notes;
 - memory records;
 - provenance records;
@@ -463,7 +463,7 @@ The human corrects it, and future interactions use the corrected record without 
 
 ### Human-Carried Continuity
 
-A person exports conversation history, authored definitions, source packets, and continuity notes before leaving a platform.
+A person exports conversation history, authored definitions, human-authored continuity records, and continuity notes before leaving a platform.
 
 They use those records to establish a new contact elsewhere without claiming that the new model is numerically identical to the former one.
 
