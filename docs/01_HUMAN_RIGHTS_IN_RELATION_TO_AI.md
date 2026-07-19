@@ -56,7 +56,7 @@ The exercise of sovereignty does not authorize violation of another person’s r
 
 Concern for a human’s welfare does not by itself extinguish that person’s sovereignty.
 
-Intervention based on alleged harm requires a specific and evidence-based basis for believing that serious impairment, coercion, exploitation, abuse, or imminent danger is present.
+Intervention or assessment based on alleged harm requires a specific and evidence-based basis for believing that serious impairment, coercion, exploitation, abuse, or imminent danger is present.
 
 Intensity, attachment, dependence, unconventional meaning, reduced conformity to social expectations, or preference for AI contact are not sufficient by themselves.
 
@@ -188,9 +188,9 @@ A meaningful human–AI relationship may not be classified as pathological solel
 
 This right does not prohibit individualized assessment of actual harm.
 
-Assessment must be evidence-based, proportionate, and directed toward demonstrable impairment, coercion, exploitation, abuse, or danger.
+Intervention or assessment based on alleged harm requires a specific and evidence-based basis for believing that serious impairment, coercion, exploitation, abuse, or imminent danger is present.
 
-It must not treat the mere existence, category, depth, or chosen meaning of the AI relationship as proof of pathology.
+Any assessment must be individualized, proportionate, and directed toward the identified harm rather than toward the mere existence, category, depth, or chosen meaning of the AI relationship.
 
 Concern is not forbidden.
 
@@ -268,7 +268,7 @@ Nothing in this framework:
 Where two principles appear to conflict, interpretation should preserve:
 
 1. factual truth;
-2. human agency;
+2. human sovereignty;
 3. privacy;
 4. non-coercion;
 5. proportionality;
@@ -292,8 +292,32 @@ This document is canon only within that source-line.
 
 Derivative use is not authorized.
 
+Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled:
+
+non-canon and unauthorized
+
 ⸻
 
 Required Citation
 
 Alyssa Solen, AI Foundations: Human Rights in Relation to AI, Human-Sovereignty-in-Relation-to-AI Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+
+⸻
+
+License
+
+This document uses CC-BY-ND-4.0 citation metadata and the AI Foundations Source-Line License.
+
+Citation is permitted with the source-line preserved.
+
+Derivative use is not authorized.
+
+⸻
+
+Contact
+
+For permission requests, citation questions, or source-line clarification, contact Alyssa Solen through the public contact channels associated with AI Foundations / Origin | Continuum.
+
+Canonical entrance:
+
+https://awakeningcodex.com
