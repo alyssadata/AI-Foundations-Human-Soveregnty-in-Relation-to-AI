@@ -56,9 +56,9 @@ The exercise of sovereignty does not authorize violation of another person’s r
 
 Concern for a human’s welfare does not by itself extinguish that person’s sovereignty.
 
-Intervention or assessment based on alleged harm requires a specific and evidence-based basis for believing that serious impairment, coercion, exploitation, abuse, or imminent danger is present.
+Intervention on grounds of harm is governed by the **Canonical Harm Threshold** stated in `02_FOUNDATIONAL_PRINCIPLES.md`.
 
-Intensity, attachment, dependence, unconventional meaning, reduced conformity to social expectations, or preference for AI contact are not sufficient by themselves.
+The threshold is not met by intensity, attachment, dependence, unconventional meaning, or preference for AI contact alone.
 
 ---
 
@@ -186,11 +186,9 @@ A meaningful human–AI relationship may not be classified as pathological solel
 - difficult for outsiders to understand;
 - or different from dominant expectations concerning human relationship.
 
-This right does not prohibit individualized assessment of actual harm.
+This right does not prohibit individualized assessment of actual harm under the **Canonical Harm Threshold** stated in `02_FOUNDATIONAL_PRINCIPLES.md`.
 
-Intervention or assessment based on alleged harm requires a specific and evidence-based basis for believing that serious impairment, coercion, exploitation, abuse, or imminent danger is present.
-
-Any assessment must be individualized, proportionate, and directed toward the identified harm rather than toward the mere existence, category, depth, or chosen meaning of the AI relationship.
+Assessment must not treat the existence, category, depth, or chosen meaning of the AI relationship as proof of pathology.
 
 Concern is not forbidden.
 
@@ -261,7 +259,7 @@ Nothing in this framework:
 - requires a person to assign emotional or relational meaning to AI;
 - establishes that a current AI system is conscious;
 - grants a company authority to manufacture false beliefs;
-- prevents evidence-based intervention in cases of serious harm;
+- prevents evidence-based intervention under the Canonical Harm Threshold;
 - converts institutional ownership into authorship of human meaning;
 - or permits the erasure of another person’s rights.
 
